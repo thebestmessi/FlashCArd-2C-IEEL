@@ -1,9 +1,17 @@
 body{
     background-color: azure;
+    display:flex;
+    margin: 20px;
 }
 .javascript{
     border: 1px solid black;
+    margin: 20px;
+    background-color: rgba(38,38,38)
+    color: white;
 }
 .css{
-
+    border: 1px solid black;
+    margin: 20px; 
+    background-color: blue;
+    color: white;
 }
